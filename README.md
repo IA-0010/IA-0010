@@ -12,7 +12,7 @@
 
 I’m a Full Stack Developer passionate about building practical, user-friendly solutions that connect automation, data, and modern web technologies. I enjoy creating internal tools, dashboards, workflows, and AI-powered systems that solve real business problems and make everyday processes faster and smarter.
 
-- **Santo Domingo, Dominican Republic 🇩🇴**
+- 🇩🇴 Santo Domingo, Dominican Republic 
 - 🌱 Currently learning **AI automation, cloud technologies, and scalable full-stack development**
 - 💬 Ask me about **Web development, automation workflows, AI integrations, dashboards, and internal tools**
 - ⚡ I enjoy turning repetitive tasks into smart automated workflows ⚡
