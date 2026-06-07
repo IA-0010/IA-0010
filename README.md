@@ -36,14 +36,14 @@ I’m a Full Stack Developer passionate about building practical, user-friendly 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=data\:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNDNy42IDMgNCA0LjMgNCA2djEyYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNmMwLTEuNy0zLjYtMy04LTN6bTAgMmMzLjkgMCA2IC45IDYgMXMtMi4xIDEtNiAxLTYtLjktNi0xIDIuMS0xIDYtMXptMCA1Yy0yLjQgMC00LjYtLjQtNi0xLjFWMTFjMS40LjcgMy42IDEuMSA2IDEuMXM0LjYtLjQgNi0xLjF2Mi4xYy0xLjQuNy0zLjYgMS4xLTYgMS4xem0wIDUuMmMtMi40IDAtNC42LS40LTYtMS4xdjIuMmMxLjQuNyAzLjYgMS4xIDYgMS4xczQuNi0uNCA2LTEuMXYtMi4yYy0xLjQuNy0zLjYgMS4xLTYgMS4xeiIvPjwvc3ZnPg%3D%3D)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 <br/>
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=microsoft\&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=data\:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwMCIgZD0iTTUgMjBoM1Y5SDV2MTF6bTUgMGgzVjRoLTN2MTZ6bTUgMGgzVjEzaC0zdjd6bTUgMGgzVjdoLTN2MTN6Ii8%2BPC9zdmc%2B)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
