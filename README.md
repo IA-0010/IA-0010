@@ -14,7 +14,7 @@ I’m a Full Stack Developer passionate about building practical, user-friendly 
 
 * 🎓 I’m currently studying Systems Engineering at Instituto Tecnológico de Santo Domingo (INTEC), in Santo Domingo, Dominican Republic.
 * 🌱 Currently learning **AI automation, cloud technologies, and scalable full-stack development**.
-* ⚡ I enjoy turning repetitive tasks into smart automated workflows ⚡
+* ⚡ I enjoy turning repetitive tasks into smart automated workflows 
 
 ## 🛠️ Tech Stack
 
